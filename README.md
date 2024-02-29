@@ -1,9 +1,13 @@
 # SubManager-Riverpod
  Subscription Manager Created With Riverpod State Management
- Used technologies:
-Firebase firestore
-Firebase auth
-Riverpod
+ 
+Used technologies:
+
+-Firebase firestore
+
+-Firebase auth
+
+-Riverpod
 
 
 ![Screenshot_1709207245](https://github.com/yasinatagun/SubManager-Riverpod/assets/4943407/2b6db9a3-3310-48ec-a51f-410e6798dea7)
